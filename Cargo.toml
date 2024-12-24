@@ -1,5 +1,5 @@
 [package]
-name = "usv-rs"
+name = "raspberrypi-X728-rs"
 version = "0.1.0"
 edition = "2021"
 
